@@ -18,6 +18,10 @@ h2 {
     font-size: 4em;
 }
 
+p {
+    font-size: 3em;
+}
+
 .mesversario {
     display: flex;
     flex-direction: column;
@@ -28,7 +32,6 @@ h2 {
 
 img {
     height: auto;
-    transition: transform .3s;
     margin-bottom: 3em;
     width: 100%;
     border: 2em solid white;

@@ -5,6 +5,7 @@ body {
     background: linear-gradient(#EFB0C9, #a2d2ff );
     color: #ffffff;
     width: 100%;
+    padding: 3em;
 }
 
 h1, h2, h3, h4, p {
@@ -73,7 +74,7 @@ h1 {
 }
 
 .gift-title {
-   font-size: 3.5em;
+   font-size: 4.5em;
 }
 
 .gift-hint {
@@ -135,23 +136,22 @@ a:hover {
 }
 
 .mesversario {
-    width: 600px;
-    margin: 40px auto 20px;
     background: #FF005C;
-    padding: 15px 10px;
-    border-radius: 10px;
+    padding: 1em;
+    border-radius: .5em;
     line-height: 1.5em;
     width: 100%;
+    box-sizing: border-box;
+    margin-top: 5em;
 }
 
 .mesversario2 {
-    width: 600px;
-    margin: 40px auto 20px;
     background: #FF005C;
-    padding: 5px 10px;
-    border-radius: 10px;
-    line-height: 1.5em;
+    padding: .5em 1em;
+    border-radius: .5em;
     width: 100%;
-    line-height: 5em;
-    margin-bottom: 4vh;
+    line-height: 2em;
+    box-sizing: border-box;
+    margin-top: 2em;
+    font-size: 4em;
 }

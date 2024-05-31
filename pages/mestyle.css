@@ -34,10 +34,6 @@ img {
     border: 2em solid white;
 }
 
-img:hover {
-    transform: scale(1.2);
-}
-
 a {
     color: white;
     cursor: pointer;
